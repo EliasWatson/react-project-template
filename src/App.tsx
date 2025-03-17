@@ -1,5 +1,7 @@
 import { ReactNode } from "react";
 
-export function App(): ReactNode {
+function App(): ReactNode {
   return null;
 }
+
+export default App;
