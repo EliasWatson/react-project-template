@@ -1,6 +1,7 @@
 # React Project Template
 
 This template includes:
+
 - Vite
 - React
 - ESLint
